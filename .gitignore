@@ -1,6 +1,7 @@
-__pycache__
+# Python/Jupyter generated files
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/
 
-.ipynb_checkpoints
-.virtual_documents
-
-undodir
+# Virtual environment
+.venv/
